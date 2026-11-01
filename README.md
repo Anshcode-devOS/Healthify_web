@@ -37,7 +37,7 @@ It calculates personalized fitness targets using user profile information and pr
 ```text
 Healthify/
 │
-├── Healthify.html
+├── index.html
 ├── style.css
 ├── script.js
 └── README.md
